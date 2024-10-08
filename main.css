@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(140, 183, 221);
+}
+
+h1 {
+    justify-content: space-around;
+    margin-bottom: 16px;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.form {
+    padding: 32px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: rgba(156, 156, 156, 0.5);
+}
